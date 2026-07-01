@@ -33,7 +33,8 @@ Distinction BCA Graduate (8.79 CGPA) and aspiring interdisciplinary researcher e
 ---
 
 ### ✍️ Research Writing & Technical Insights
-* **Medium Publication:** I write about user behavioral analysis, Human-Computer Interaction, and cognitive engineering loops. Follow my work on
+* **Medium Publication:** I write about user behavioral analysis, Human-Computer Interaction, and cognitive engineering loops on Medium.
+
 * **[Medium Profile](https://medium.com/@princess.uni.1008)**:
   * 🧠 **[Studylytics: My First Step into HCI]** – Blending technology, cognitive load theory, and student life diagnostics.
   * 🤖 **[ChatGPT: Our Digital Companion?]** – A critical reflection on Human-AI interaction and emotional attachment frameworks.
