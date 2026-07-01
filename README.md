@@ -44,5 +44,6 @@ Distinction BCA Graduate (8.79 CGPA) and aspiring interdisciplinary researcher e
 
 ### 🌐 Let's Connect
 * **LinkedIn:** [linkedin.com/in/shwetha-patil-29ab49315](https://www.linkedin.com/in/shwetha-patil-29ab49315/)
-* **Portfolio:** 
+* **Portfolio:** [View Portfolio PDF](./documents/Portfolio_merged.pdf)
+
 
