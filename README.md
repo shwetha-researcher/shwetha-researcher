@@ -30,6 +30,12 @@ Distinction BCA Graduate (8.79 CGPA) and aspiring interdisciplinary researcher e
 * Fine-tuned a **MobileNetV2** architecture to achieve **97–98% evaluation accuracy** across Food, Fitness, and General domains.
 * Converted architecture to **TFLite (3.7 MB)** to maintain an edge inference speed threshold under **~30ms**.
 
+#### 📊 Entertainment & Psychology (ENP) `[Active Research - In Progress]`
+*A longitudinal personal case study investigating media consumption and psychological experiences (Jan–Jun 2026).*
+* **Current Status**: Phase 1 Exploratory Data Analysis (EDA) complete; building Python text-processing scripts for NLP keyword parsing.
+* Investigates whether recurring patterns exist between daily entertainment choices and psychological experiences within a six-month tracking timeline.
+* Combines data science metrics with qualitative journal coding to map how media preferences coincide with emotional states and cognitive processes over time.
+
 ---
 
 ### ✍️ Research Writing & Technical Insights
